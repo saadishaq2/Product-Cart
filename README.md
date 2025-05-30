@@ -47,21 +47,7 @@
 
 ---
 
-## 🖼️ Screenshots (optional)
 
-> You can add screenshots or a demo GIF here to visually show your app.
-
----
-
-## 🔮 Possible Future Features
-
-- Backend integration (Node.js + MongoDB or Firebase)  
-- Authentication (login/register)  
-- Persistent cart with localStorage or DB  
-- Product filtering and search  
-- Stripe/PayPal payment integration
-
----
 
 ## 🙋‍♂️ Author
 
